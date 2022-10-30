@@ -113,7 +113,7 @@ class _LoginPageState extends State<LoginPage> {
                 width: double.infinity,
                 // ログイン登録ボタン
                 child: OutlinedButton(
-                  child: Text('ログイン'),
+                  child: Text('log inlog in'),
                   onPressed: () async {
                     try {
                       // メール/パスワードでログイン
